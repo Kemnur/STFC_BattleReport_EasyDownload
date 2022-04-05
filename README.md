@@ -1,0 +1,1 @@
+# STFC_BattleReport_EasyDownload
