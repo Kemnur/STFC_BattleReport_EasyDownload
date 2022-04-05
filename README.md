@@ -1,1 +1,1 @@
-# STFC_BattleReport_EasyDownload
+run STFC_BattleReport.exe to start the program
